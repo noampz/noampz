@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @noampz
-- 👀 I’m interested in algotrading
-- 🌱 I’m currently learning strategys
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? nowhere. o(*￣▽￣*)ブ
+
